@@ -1,0 +1,16 @@
+age,gender,region_category,membership_category,joining_date,joined_through_referral,preferred_offer_types,medium_of_operation,internet_option,last_visit_time,days_since_last_login,avg_time_spent,avg_transaction_value,avg_frequency_login_days,points_in_wallet,used_special_discount,offer_application_preference,past_complaint,complaint_status,feedback,churn_risk_score
+64,F,Village,Gold Membership,2015,No,Gift Vouchers/Coupons,Desktop,Wi-Fi,10,11,30.56,20650.42,13,750.31,No,Yes,No,Not Applicable,Poor Product Quality,0
+48,M,City,Premium Membership,2017,No,Gift Vouchers/Coupons,Smartphone,Mobile_Data,17,14,947.5892959712846,65635.33,6,743.5,No,Yes,Yes,Solved,Quality Customer Care,0
+31,M,City,Platinum Membership,2017,No,Credit/Debit Card Offers,Smartphone,Fiber_Optic,22,8,73.21,8609.58,5,774.55,No,Yes,Yes,Solved in Follow-up,Reasonable Price,0
+61,M,City,Platinum Membership,2017,No,Gift Vouchers/Coupons,Smartphone,Mobile_Data,6,9,315.37,28202.86,19,778.62,Yes,No,No,Not Applicable,Poor Website,0
+28,M,Town,Silver Membership,2017,No,Credit/Debit Card Offers,Desktop,Fiber_Optic,16,12,660.53,38380.9,14,781.39,Yes,No,No,Not Applicable,No reason specified,0
+11,F,Village,Basic Membership,2016,No,Gift Vouchers/Coupons,Desktop,Fiber_Optic,7,15,366.98,19092.19,7,640.07,No,Yes,Yes,Solved in Follow-up,Poor Product Quality,1
+39,F,Village,Basic Membership,2017,No,Credit/Debit Card Offers,Both,Fiber_Optic,11,11,374.15,12114.64,16,707.51,Yes,No,No,Not Applicable,No reason specified,1
+51,F,Village,Platinum Membership,2016,Yes,Credit/Debit Card Offers,Desktop,Fiber_Optic,19,13,228.33,843.72,0,797.47,Yes,Yes,Yes,Solved,No reason specified,0
+13,F,City,Basic Membership,2017,Yes,Credit/Debit Card Offers,Both,Fiber_Optic,19,7,1805.396683628284,23397.98,18,577.13,No,Yes,Yes,Solved in Follow-up,Poor Customer Service,1
+64,M,City,Gold Membership,2017,Yes,Without Offers,Desktop,Wi-Fi,22,15,44.47,36000.16,6,764.26,No,Yes,Yes,Unsolved,Poor Product Quality,0
+51,F,Town,Gold Membership,2016,Yes,Gift Vouchers/Coupons,Desktop,Wi-Fi,8,17,48.63,34791.58,28,0.0,No,Yes,No,Not Applicable,Poor Customer Service,1
+21,M,City,Premium Membership,2016,No,Without Offers,Smartphone,Wi-Fi,4,13,299.38,87123.47,3,796.52,Yes,No,Yes,No Information Available,User Friendly Website,0
+44,F,City,Basic Membership,2015,No,Without Offers,Smartphone,Wi-Fi,22,16,379.38,49085.63,24,1524.3475306826983,No,Yes,Yes,Solved in Follow-up,Too many ads,1
+46,M,Town,Silver Membership,2015,No,Gift Vouchers/Coupons,Smartphone,Fiber_Optic,11,3,1049.4223531700657,37963.34,15,738.12,Yes,No,Yes,No Information Available,Too many ads,0
+37,F,City,Platinum Membership,2017,Yes,Gift Vouchers/Coupons,Smartphone,Wi-Fi,6,16,62.79,37918.34,19,783.69,Yes,No,No,Not Applicable,No reason specified,0

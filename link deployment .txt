@@ -1,0 +1,4 @@
+link deployment : 
+https://huggingface.co/spaces/RifqiJH/Milestone1_phase2/tree/main
+
+deployment app.py masih eror hanya eda.py yang bisa dijalankan
